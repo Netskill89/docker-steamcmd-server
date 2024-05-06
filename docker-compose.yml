@@ -1,0 +1,5 @@
+service:
+  build:
+    context: .
+    dockerfile: Dockerfile
+  # other service configurations...
